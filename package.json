@@ -1,0 +1,29 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de escritorio multiplataforma en Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neathless/Electron-Curso.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma",
+    "Node.js",
+    "Chromium"
+  ],
+  "author": "Ricardo Lopez Pinedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neathless/Electron-Curso/issues"
+  },
+  "homepage": "https://github.com/Neathless/Electron-Curso#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
